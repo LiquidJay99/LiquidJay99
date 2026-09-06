@@ -7,7 +7,7 @@
 </p>
 
 <h1>Eshiel Jay Guinandam</h1>
-<p><b>Freelance developer or consultant</b></p>
+<p><b>Generative AI Engineer</b></p>
 
 </div>
 
