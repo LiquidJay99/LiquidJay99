@@ -19,7 +19,7 @@
 
 *Small, useful work over vague claims.*
 
-## Case studies
+## Projects
 
 <table>
 <tr><td width="32%"><b><a href="https://github.com/LiquidJay99/HMS">HMS</a></b></td><td>A selected project from this GitHub profile.<br/><sub>PHP · 0 stars</sub></td></tr>
