@@ -35,7 +35,7 @@
 
 ## Creative toolkit
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) `Hack`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## Make something memorable
 
@@ -44,5 +44,3 @@
 </p>
 
 <a href="https://github.com/liquidjay99">GitHub</a>
-
-<p align="center"><sub>Eshiel Jay Guinandam · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
